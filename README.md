@@ -1,0 +1,1 @@
+# yazilimci-gelistirme-kampi
